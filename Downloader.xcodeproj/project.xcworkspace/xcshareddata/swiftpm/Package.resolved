@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "tiercel",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Danie1s/Tiercel.git",
+      "state" : {
+        "revision" : "203ef077ed3887cb8cb5729446ef018f890a8a9a",
+        "version" : "3.2.5"
+      }
+    }
+  ],
+  "version" : 2
+}
